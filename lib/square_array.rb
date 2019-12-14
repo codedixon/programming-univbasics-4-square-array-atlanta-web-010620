@@ -3,5 +3,5 @@ def square_array(array)
   counter = 0
   while counter < array.length do
     puts array[count]
-    count++
+    count += 1
 end
